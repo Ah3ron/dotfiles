@@ -1,0 +1,11 @@
+require("modules/monitor")
+require("modules/autostart")
+require("modules/env")
+require("modules/input")
+require("modules/appearance")
+require("modules/cursor")
+require("modules/binds")
+require("modules/rules")
+require("modules/workspaces")
+
+require("noctalia").apply_theme()
